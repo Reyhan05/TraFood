@@ -1,8 +1,10 @@
-# travell_in
+# TraFood App
 
-Travelling App
+This project is my final project,
+when I was at school and I was asked to make a 
+flutter application using or applying hero animation
 
-## Getting Started
+## This is the UI
 
 This project is a starting point for a Flutter application.
 
